@@ -15,11 +15,11 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on Aviahire
-- 🌱 I’m currently learning Flutter & Angular.
+- 🔭 I’m currently assosiate on Aviahire
+- 🌱 I’m currently exproring Flutter & .
 - 👯 I’m looking to collaborate on youtube.
-- 🤔 I’m looking for help with writing a medium stories.
-- 💬 Ask me about anything in UI, UX & Frontend
+- 🤔 I’m looking for help with writing a medium case studies & stories.
+- 💬 Ask me about anything in UX, UI & Frontend
 - 📫 How to reach me: [Twitter - @y2kanthale](https://twitter.com/y2kanthale)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am always online.
@@ -29,7 +29,7 @@
 [![GitHub y2kanthale](https://img.shields.io/github/followers/y2kanthale?label=follow&style=social)](https://github.com/y2kanthale
 -->
 
-**Languages and Tools:**  
+**Languages and Tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
