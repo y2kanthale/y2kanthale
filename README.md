@@ -15,8 +15,8 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently assosiate on Aviahire
-- 🌱 I’m currently exproring Flutter & .
+- 🔭 I’m currently associate on Aviahire.
+- 🌱 I’m currently exproring Flutter.
 - 👯 I’m looking to collaborate on youtube.
 - 🤔 I’m looking for help with writing a medium case studies & stories.
 - 💬 Ask me about anything in UX, UI & Frontend
