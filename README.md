@@ -15,14 +15,14 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently associate on Aviahire.
-- 🌱 I’m currently exproring Flutter.
-- 👯 I’m looking to collaborate on youtube.
+- 🔭 I’m looking opportunity in UX/UI Designer.
+- 🌱 I’m currently exproring React & Flutter.
+- 👯 I’m currently associate on Aviahire.
 - 🤔 I’m looking for help with writing a medium case studies & stories.
 - 💬 Ask me about anything in UX, UI & Frontend
 - 📫 How to reach me: [Twitter - @y2kanthale](https://twitter.com/y2kanthale)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I am always online.
+- ⚡ Fun fact: I am always ready for collaboration in Open Source.
 
 <!--
 [![Twitter: y2kanthale](https://img.shields.io/twitter/follow/y2kanthale?style=social)](https://twitter.com/y2kanthale)
@@ -34,11 +34,12 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+
 
 <a href="https://github.com/y2kanthale">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=y2kanthale&theme=dark&hide_langs_below=1" />
