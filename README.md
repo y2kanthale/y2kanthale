@@ -52,7 +52,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aviabird&repo=angularspree&theme=dark" />
 
 </a>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=y2kanthale)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=y2kanthale"></img>
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
