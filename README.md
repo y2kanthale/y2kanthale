@@ -15,7 +15,7 @@
 <br/>
 <br/>
 
-- 🔭 I’m looking opportunity in UX/UI Designer.
+- 🔭 I’m currently working as Sr.UX Designer in [Datakrew](https://datakrew.com/).
 - 🌱 I’m currently exproring React & Flutter.
 - 👯 I’m currently associate on Aviahire.
 - 🤔 I’m looking for help with writing a medium case studies & stories.
@@ -52,7 +52,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aviabird&repo=angularspree&theme=dark" />
 
 </a>
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=y2kanthale)](https://github.com/anuraghazra/github-readme-stats)
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
